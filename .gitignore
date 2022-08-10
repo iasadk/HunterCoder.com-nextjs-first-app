@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#SSG output folder
+/out
+
 # next.js
 /.next/
 /out/
